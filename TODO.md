@@ -1,0 +1,8 @@
+- [x] Write test for top-level H1 heading with "Hi, I'm [name]"
+- [x] Write test for image with alt text
+- [x] Write test for H2 heading "About Me"
+- [x] Write test for biography paragraph
+- [x] Write test for GitHub link
+- [x] Write test for LinkedIn link
+- [x] Implement App.js component with all required elements
+- [x] Run tests to verify implementation
